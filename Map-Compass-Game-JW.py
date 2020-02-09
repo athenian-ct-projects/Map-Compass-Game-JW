@@ -1,5 +1,5 @@
 print("Hi! Welcome to the map and compass game!")
-print("Today, your character will be the dollar sign and you are bringing the dollar sign to the destintation.")
+print("Today, your character will be the dollar sign and you are bringing the dollar sign to the \ndestintation.")
 print("enter your directions in capital letters!")
 # first i am doing a "wall" for the $ to walk on it
 class MapGrid:
